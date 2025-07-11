@@ -15,7 +15,11 @@ Some examples of the overlay in action and commands are:
 Before starting the overlay invite a random person or a offline person to a party so that you don't spam in global chat
 
 using the command /p inv someone (who is someone offline, you can invite anyone offline/online) it will get u acess to party chat where there is no chat delay
+
+
 <img width="415" height="57" alt="image" src="https://github.com/user-attachments/assets/05e8baf2-9485-48ca-856d-08b8bddecc79" />
+
+
 
 
 1. When the program is started an initial message is typed:
