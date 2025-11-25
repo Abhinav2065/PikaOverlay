@@ -1,6 +1,6 @@
-# 🎮 Minecraft Player Tracking Overlay
+# 🎮 Pika Network Minecraft Player Tracking Overlay
 
-A real-time Minecraft overlay that tracks player statistics and provides automated alerts in-game.
+A real-time Minecraft overlay that tracks player statistics and provides automated alerts in-game. (in Pika Network Bedwars)
 
 ## 📥 Installation
 
